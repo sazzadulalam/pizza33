@@ -1,0 +1,72 @@
+@font-face{
+	src: url(../font/bdf/bdf.ttf);
+	font-family:'bdf';
+}
+#pizza-name{
+	border:1px solid black;
+	margin-top:50px;
+	height:210px;
+	margin:5px;
+}
+#pizza-name1{
+	border:1px solid black;
+	margin-top:50px;
+	height:210px;
+	margin:5px;
+}
+#heder ~ div{
+	margin-top:60px;
+}
+img{
+	width:200px;
+	height:auto;
+}
+a:link{
+	color:red;
+}
+a:visited{
+	color:green;
+}
+a:hover{
+	color:red;
+	background-color:black;
+}
+h2,h3,h4{
+	font-family:Arial, sans-serif;
+}
+h4{
+	font-size:25px;
+}
+p{
+	font-family: 'Roboto Slab',serif;
+}
+#contact-form h1{
+	color:#FCFDFF;
+	background-color:#5A666A;
+}
+#contact-info p{
+	color:green;
+}
+button:hover{
+	background-color:red;
+	color:white;
+}
+submit:hover{
+	background-color:red;
+	color:white;
+}
+form{
+	background-color:#75ABBC;
+	color:#4B51FF;
+	padding:20px;
+}
+#table{
+	margin-right:2px;
+	margin-left:2px;
+}
+#main{
+	margin-top:20px;
+}
+#main1{
+	margin-top:20px;
+}
